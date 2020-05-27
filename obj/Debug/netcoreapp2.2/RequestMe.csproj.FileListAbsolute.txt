@@ -1,0 +1,14 @@
+/home/neytchi/project/RequestMe/RequestMe/bin/Debug/netcoreapp2.2/RequestMe.deps.json
+/home/neytchi/project/RequestMe/RequestMe/bin/Debug/netcoreapp2.2/RequestMe.runtimeconfig.json
+/home/neytchi/project/RequestMe/RequestMe/bin/Debug/netcoreapp2.2/RequestMe.runtimeconfig.dev.json
+/home/neytchi/project/RequestMe/RequestMe/bin/Debug/netcoreapp2.2/RequestMe.dll
+/home/neytchi/project/RequestMe/RequestMe/bin/Debug/netcoreapp2.2/RequestMe.pdb
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.csprojAssemblyReference.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.csproj.CoreCompileInputs.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.RazorAssemblyInfo.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.RazorAssemblyInfo.cs
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.AssemblyInfoInputs.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.AssemblyInfo.cs
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.RazorTargetAssemblyInfo.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.dll
+/home/neytchi/project/RequestMe/RequestMe/obj/Debug/netcoreapp2.2/RequestMe.pdb

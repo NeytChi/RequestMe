@@ -1,0 +1,17 @@
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/libhostpolicy.so
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/libhostfxr.so
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.deps.json
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.runtimeconfig.json
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.runtimeconfig.dev.json
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.dll
+/home/neytchi/project/RequestMe/RequestMe/bin/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.pdb
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.csprojAssemblyReference.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.csproj.CoreCompileInputs.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.RazorAssemblyInfo.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.RazorAssemblyInfo.cs
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.AssemblyInfoInputs.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.AssemblyInfo.cs
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.RazorTargetAssemblyInfo.cache
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.dll
+/home/neytchi/project/RequestMe/RequestMe/obj/release/netcoreapp2.2/ubuntu.18.04-x64/RequestMe.pdb
